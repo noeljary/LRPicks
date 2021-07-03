@@ -1,4 +1,4 @@
-# lrpicks
+# LRPicks
 Adobe Lightroom "Picks" Catalog Creator
 
 Script used to manage Lightroom Catalogs for Backups.
